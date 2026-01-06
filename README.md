@@ -8,9 +8,7 @@ It is designed for backend decision logic such as:
 - Recommendation flows
 - Heuristics
 - LLM-based workflows where decisions happen in multiple steps
-
-> This is **not a user-facing product**.  
-> It is meant for engineers debugging complex decision behavior.
+-It is meant for engineers debugging complex decision behavior.
 
 ---
 
@@ -125,3 +123,4 @@ The demo uses **hard-coded data on purpose** so the behavior is predictable and 
 * The demo is meant to validate the system, not represent real business logic
 
 ```
+
