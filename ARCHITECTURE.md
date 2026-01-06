@@ -95,7 +95,7 @@ Separating stages makes partial data a first-class, inspectable state.
 **Scenario**
 A competitor-selection run returns a **phone case** for the query *“best laptop stand”*.
 
-### How X-Ray is used
+### How Decision scope is used
 
 1. An engineer queries suspicious decisions:
 
@@ -296,3 +296,4 @@ If shipping this system for real-world use:
 These were intentionally out of scope for this exercise.
 
 ---
+
