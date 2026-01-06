@@ -120,7 +120,4 @@ The demo uses **hard-coded data on purpose** so the behavior is predictable and 
 ## Notes
 
 * See `ARCHITECTURE.md` for detailed design reasoning and trade-offs
-* The demo is meant to validate the system, not represent real business logic
-
-```
 
